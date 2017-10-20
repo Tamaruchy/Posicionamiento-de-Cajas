@@ -1,0 +1,30 @@
+#box-red
+{
+width: 350px;
+height: 350px;
+background-color: red;
+position: absolute;
+
+
+}
+#box-purple
+{
+width: 150px;
+height: 150px;
+background-color: purple;
+position: absolute; 
+left: 95px;
+top:95px;
+
+}
+#box-yellow
+{
+width: 75px;
+height: 75px;
+background-color: yellow;
+position: absolute;
+
+left: 95px;
+top: 95px;
+}
+
